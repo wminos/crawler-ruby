@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mime-types (3.1)
+      mime-types-data (~> 3.2015)
+    mime-types-data (3.2016.0521)
+    mini_portile2 (2.3.0)
+    nokogiri (1.8.2-x64-mingw32)
+      mini_portile2 (~> 2.3.0)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  mime-types (= 3.1)
+  nokogiri (= 1.8.2)
+
+BUNDLED WITH
+   1.16.1

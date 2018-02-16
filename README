@@ -1,0 +1,7 @@
+This is web-crawler.
+Mainly this will crawl images.
+Not yet, project edge is not distinct.
+In final, this project will be just html crawler engine.
+But, currently this project includes crawler-engine & database cache & web application for view.
+
+This have the possibility to re-make by 'scala' language.
